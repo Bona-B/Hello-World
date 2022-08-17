@@ -6,5 +6,5 @@ Am a student, studying pharmacy in UNN
 ## My Hobbies
 I like to see movies. Also I like to be on the mirror; VIRTUAL!!
 
-###Less likely
-Am a beginner on Github, most things I find difficult to learn is "reviewing request and resolving conflict"; more of its kind is "Github workflows" - it sucks!!
+### Less likely
+Am a beginner on Github, most things I find difficult to learn is "reviewing request and resolving conflict"; more of its kind is "Github workflows" - it sucks!! I will surely learn those.
