@@ -1,6 +1,6 @@
 ![headshot](94061fad7a9fdbbbe77953ab07da4b93.jpg)
 # A Little Insight About Bona-B
-Hello! Am Bona-B, am an average from from somewhere in this world
+Hello! Am Bona-B, am an average guy from somewhere in this world
 ## My Profession
 Am a student, studying pharmacy in UNN
 ## My Hobbies
